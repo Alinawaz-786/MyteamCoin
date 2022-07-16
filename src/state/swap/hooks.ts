@@ -42,9 +42,9 @@ export function useSwapState(): AppState['swap'] {
 }
 
 const BAD_RECIPIENT_ADDRESSES: string[] = [
-  '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f', // v2 factory
-  '0xf164fC0Ec4E93095b804a4795bBe1e041497b92a', // v2 router 01
-  '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D', // v2 router 02
+  '0xB552d99786D0faf7D2E7d64919E11db7B5c16D35', // v2 factory
+  '0xe7137312f476e3e21c1cb23147117a71298c7a48', // v2 router 01
+  '0x54d8bd1dde290a71cb12c585a7dc216397480458', // v2 router 02
 ]
 
 /**

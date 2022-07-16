@@ -438,7 +438,7 @@ const tokens = {
     symbol: "wBNB",
     address: {
       56: "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      97: "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      97: "0x8CB2B3095ED5A60b7546eD073578681C55D94c01",
     },
     decimals: 18,
     projectLink: "https://pancakeswap.finance/",
@@ -609,7 +609,7 @@ const tokens = {
     symbol: "BUSD",
     address: {
       56: "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      97: "",
+      97: "0x47c815F9Eb5E25B6D03E7C5193128E58735e6419",
     },
     decimals: 18,
     projectLink: "https://www.paxos.com/busd/",
@@ -627,7 +627,7 @@ const tokens = {
     symbol: "BETH",
     address: {
       56: "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
-      97: "",
+      97: "0xC5BDa0285cDC427CFbBfFfc06b25b435b15efC07",
     },
     decimals: 18,
     projectLink: "https://ethereum.org/en/eth2/beacon-chain/",

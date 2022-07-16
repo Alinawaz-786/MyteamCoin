@@ -150,7 +150,7 @@ class BnInjectedConnector extends AbstractConnector {
   }
 }
 
-const injected = new BnInjectedConnector({ supportedChainIds: [56, 97] })
+const injected = new BnInjectedConnector({ supportedChainIds: [97] })
 export const getAccount = () => injected.getAccount()
 
 const useActive = () => {
